@@ -22,3 +22,7 @@
   overflow: hidden;
   border-radius: 36px;
 }
+h2 {
+  text-align: center;
+  margin: 20px;
+}

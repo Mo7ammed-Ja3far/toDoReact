@@ -25,6 +25,8 @@ const Main = () => {
   return (
     <>
       <div className="main">
+        <h2>To Do List</h2>
+
         <div className="inputs">
           <Input type="text" id="txt" />
           <Input
